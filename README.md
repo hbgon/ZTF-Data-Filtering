@@ -11,5 +11,5 @@ The '.rar' file contains a complete example of how to operate on the data obtain
 5) ".txt" file containing the coordinates, ra, and dec, identical to the names of the files in item 2).
 6) "ZTF_Data_Filter.ipynb".
 
-# Contat me at:
+# Contact me at:
 hygor.benati@ufrgs.br
