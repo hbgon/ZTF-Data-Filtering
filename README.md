@@ -1,4 +1,4 @@
-# ZTF-Data-Filters
+# ZTF-Data-Filters:
 While handling ZTF data, I faced certain challenges with forced photometry data, including issues like repeated observations on the same day and NaN values. To address these issues, I implemented filters and reliability parameters. In this repository, I strive to share a detailed account of how I navigated through these challenges, hoping that it proves valuable to others interested in working with the same survey.
 
 # About the code:
@@ -13,3 +13,5 @@ The '.rar' file contains a complete example of how to operate on the data obtain
 
 # Contact me at:
 hygor.benati@ufrgs.br
+
+[![DOI](https://zenodo.org/badge/746263724.svg)](https://zenodo.org/doi/10.5281/zenodo.10602736)
