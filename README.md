@@ -10,6 +10,13 @@ The '.rar' file contains a complete example of how to operate on the data obtain
 4) "ztffp_final_data" folder (filtered data, output of the plot_lc() function).
 5) ".txt" file containing the coordinates, ra, and dec, identical to the names of the files in item 2).
 6) "ZTF_Data_Filter.ipynb".
+   
+<p align="center">
+  Below you'll find a flowchart explaining the logical sequence of the code:
+
+![Alt text](https://github.com/hbgon/ZTF-Data-Filters/blob/main/flowchart.png)
+</p>
+
 
 # Contact me at:
 hygor.benati@ufrgs.br
