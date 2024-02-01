@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Benati Gonçalves"
+  given-names: "Hygor"
+  orcid: "https://orcid.org/0009-0006-0492-9679"
+title: "ZTF-Data-Filters"
+version: 0.1.0
+doi: 10.5281/zenodo.10602737
+date-released: 2024-01-31
+url: "https://doi.org/10.5281/zenodo.10602737"
