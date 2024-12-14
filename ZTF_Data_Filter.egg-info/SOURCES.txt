@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+ZTF_Data_Filter.egg-info/PKG-INFO
+ZTF_Data_Filter.egg-info/SOURCES.txt
+ZTF_Data_Filter.egg-info/dependency_links.txt
+ZTF_Data_Filter.egg-info/entry_points.txt
+ZTF_Data_Filter.egg-info/requires.txt
+ZTF_Data_Filter.egg-info/top_level.txt

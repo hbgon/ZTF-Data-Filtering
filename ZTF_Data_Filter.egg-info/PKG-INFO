@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ZTF-Data-Filter
+Version: 1.2.0
+Summary: A project for astronomy data filtering and analysis
+Author: Hygor B. Gonçalves
+Author-email: hygor.benati@ufrgs.br
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+License-File: LICENCE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: astropy
+Requires-Dist: matplotlib
+Requires-Dist: astroquery
