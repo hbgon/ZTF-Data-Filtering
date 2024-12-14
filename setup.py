@@ -10,8 +10,8 @@ requirements = [
 ]
 
 setup(
-    name="ZTF-Data-Filter", 
-    version="1.2.0",
+    name="ZTF-Data-Filtering", 
+    version="1.2.1",
     description="A project for ZTF data filtering and analysis",
     author="Hygor B. Gonçalves",
     author_email="hygor.benati@ufrgs.br",
